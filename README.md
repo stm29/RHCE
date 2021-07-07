@@ -3,7 +3,7 @@
 - # ansible.cfg 
   - [defaults]
   - roles_path=
-- # inventory=
+  - inventory=
   - [privilege_escalation]
   - become=true
   - Inventory
